@@ -72,5 +72,6 @@
     <Build Include="dbo\Stored Procedures\RemoveService.sql" />
     <Build Include="dbo\Stored Procedures\PurchaseService.sql" />
     <Build Include="dbo\Views\Clients.sql" />
+    <Build Include="dbo\Views\Purchase.sql" />
   </ItemGroup>
 </Project>
